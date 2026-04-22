@@ -1,6 +1,6 @@
 import streamlit as st
-from PIL import Image
 import tensorflow as tf
+from PIL import Image
 import numpy as np
 from utils.pdf_handler import pdf_to_image
 from utils.preprocess import preprocess_for_model
