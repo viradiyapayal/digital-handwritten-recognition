@@ -1,5 +1,5 @@
 streamlit==1.42.0
-tensorflow
+tensorflow==2.18.0
 tensorflow-hub==0.16.1
 pillow==11.1.0
 pymupdf==1.25.3
